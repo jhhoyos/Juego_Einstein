@@ -1,0 +1,19 @@
+#Entorno y Secretos
+
+.env
+*.pem
+
+#Sistema Operativo
+
+.DS_Store
+Thumbs.db
+
+#Editores
+
+.vscode/
+.idea/
+
+#Logs y Temporales
+
+*.log
+tmp/
